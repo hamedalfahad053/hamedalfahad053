@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Hamid Al-Fahd 👋
+### Senior Software Engineer & Software Architect
 
-<!--
-**hamedalfahad053/hamedalfahad053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about architecting scalable enterprise systems, migrating legacy infrastructure, and engineering modern SaaS solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlights & Experience
+- 🏢 **Role:** Deputy General Manager for Applications & Senior Software Architect
+- 🎓 **Education:** Master's in Information Science (Data Management)
+- 💼 **Focus Areas:** Enterprise Web Apps, Database Architecture, Legacy Modernization, Agentic AI Workflows
+- 🌐 **Portfolio & Projects:** 
+
+---
+
+### 🛠️ Tech Stack & Architecture
+
+**Languages & Frameworks:**
+- **Backend:** PHP (Laravel) 
+- **Frontend:** Blade, Tailwind CSS, JavaScript
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL (Strict ORM & Repository Pattern)
+
+**DevOps & AI:**
+- Git, CI/CD, Linux Administration, Docker
+- Local LLMs, Agentic AI Workflows (n8n, Cursor, RAG)
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamedalfahad053&show_icons=true&theme=tokyonight&hide_border=true" alt="Hamid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedalfahad053&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- 📧 Email: hamedalfahad@gmail.com
