@@ -36,5 +36,5 @@ Passionate about architecting scalable enterprise systems, migrating legacy infr
 ---
 
 ### 📬 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/hamed-a-870968125/])
 - 📧 Email: hamedalfahad@gmail.com
