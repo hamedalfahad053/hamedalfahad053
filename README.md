@@ -40,16 +40,9 @@
 > *Architected and deployed production systems across government, academic, and enterprise sectors:*
 
 - 🎓 **Graduation Project Management System :**
-  - Engineered an end-to-end lifecycle platform managing student thesis proposals, faculty supervision, and defense committees.
-  - Integrated **OpenAI API pipelines & prompt engineering** for real-time project evaluation assistance and smart document analysis.
 - 💬 **Omnichannel Enterprise Support & Smart Bot Engine:**
-  - Designed the primary Technical Support Platform for the Deanship of E-Learning using Laravel and Node.js.
-  - Built an automated **24/7 AI-powered WhatsApp Gateway** directly synchronizing with student and faculty data stores.
 - 📈 **Academic Training & Internship Portals :**
-  - Built mission-critical training portals serving over **100,000 concurrent students** and hundreds of corporate internship partners.
-  - Automated candidate matching, milestone attendance logging, performance appraisals, and certified digital credential issuing.
 - 🏢 **Multi-Company ERP & Testing Suites:**
-  - Modernized corporate ERP workflows encompassing automated digital attendance, compliance audits, and Cambridge-aligned English testing platforms.
 
 ---
 
