@@ -35,7 +35,7 @@
 > *A snapshot of architectural patterns and solutions I engineer:*
 
 - 🏢 **Multi-Tenant SaaS Platforms:** Modular tenancy architectures with isolated database schemas, RBAC, and secure multi-tier authentication.
-- 🔄 **Legacy-to-Cloud Modernization:** Converting complex legacy system, modern Laravel services with automated data audit.
+- 🔄 **Legacy Modernization:** Converting complex legacy system, modern Laravel services with automated data audit.
 - 📊 **Academic & Enterprise Portals:** High-availability systems handling heavy data pipelines, role delegation, and workflow automation.
 
 ---
